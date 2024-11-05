@@ -346,7 +346,7 @@ imageUrl:"https://imgur.com/PclAfVY.jpeg"
     taste: "甘口",
     price: 1500,
     volume: "720ml",
-    jan: "4990583381114",
+    janCode: "4990583381114",
 imageUrl:"https://imgur.com/Mi76PGM.jpeg"
   },
   {
@@ -356,7 +356,7 @@ imageUrl:"https://imgur.com/Mi76PGM.jpeg"
     taste: "甘口",
     price: 1520,
     volume: "720ml",
-    jan: "4990583311609",
+    janCode: "4990583311609",
 imageUrl:"https://imgur.com/VrfVuOf.jpeg"
   },
   {
@@ -366,7 +366,7 @@ imageUrl:"https://imgur.com/VrfVuOf.jpeg"
     taste: "ミディアムボディ",
     price: 1610,
     volume: "750ml",
-    jan: "4990583332000",
+    janCode: "4990583332000",
 imageUrl:"https://imgur.com/O0zfV0Y.jpeg"
   },
   {
@@ -376,7 +376,7 @@ imageUrl:"https://imgur.com/O0zfV0Y.jpeg"
     taste: "辛口",
     price: 1610,
     volume: "750ml",
-    jan: "4990583332109",
+    janCode: "4990583332109",
 imageUrl:"https://imgur.com/C7gu9TG.jpeg"
   },
   {
@@ -386,7 +386,7 @@ imageUrl:"https://imgur.com/C7gu9TG.jpeg"
     taste: "甘口",
     price: 1302,
     volume: "720ml",
-    jan: "4990583321189",
+    janCode: "4990583321189",
 imageUrl:"https://imgur.com/ERIApLq.jpeg"
   },
   {
@@ -396,7 +396,7 @@ imageUrl:"https://imgur.com/ERIApLq.jpeg"
     taste: "甘口",
     price: 1302,
     volume: "720ml",
-    jan: "4990583321196",
+    janCode: "4990583321196",
     imageUrl:"https://imgur.com/yGR1Ztd.jpeg"
   },
   {
@@ -406,7 +406,7 @@ imageUrl:"https://imgur.com/ERIApLq.jpeg"
     taste: "やや甘口",
     price: 1260,
     volume: "720ml",
-    jan: "4990583305394",
+    janCode: "4990583305394",
 imageUrl:"https://imgur.com/hzInJ3B.jpeg"
   },
   {
@@ -416,7 +416,7 @@ imageUrl:"https://imgur.com/hzInJ3B.jpeg"
     taste: "甘口",
     price: 1150,
     volume: "720ml",
-    jan: "4977754300075",
+    janCode: "4977754300075",
 imageUrl:"https://imgur.com/Htb8mnl.jpeg"
   },
   
@@ -429,7 +429,7 @@ imageUrl:"https://imgur.com/Htb8mnl.jpeg"
     taste: "普通",
     price: 1090,
     volume: "720ml",
-    jan: "4970903510011",
+    janCode: "4970903510011",
 imageUrl:"https://imgur.com/wINgBH4.jpeg"
   },
   {
@@ -439,7 +439,7 @@ imageUrl:"https://imgur.com/wINgBH4.jpeg"
     taste: "辛口",
     price: 1090,
     volume: "720ml",
-    jan: "4970903510028",
+    janCode: "4970903510028",
 imageUrl:"https://imgur.com/06WwX3j.jpeg"
   },
   {
@@ -449,7 +449,7 @@ imageUrl:"https://imgur.com/06WwX3j.jpeg"
     taste: "やや軽め",
     price: 1180,
     volume: "720ml",
-    jan: "4970903512855",
+    janCode: "4970903512855",
 imageUrl:"https://imgur.com/4O8RILN.jpeg"
   },
   {
@@ -459,7 +459,7 @@ imageUrl:"https://imgur.com/4O8RILN.jpeg"
     taste: "辛口",
     price: 1180,
     volume: "720ml",
-    jan: "4970903511957",
+    janCode: "4970903511957",
 imageUrl:"https://imgur.com/n58E27p.jpeg"
   },
   {
@@ -469,7 +469,7 @@ imageUrl:"https://imgur.com/n58E27p.jpeg"
     taste: "辛口",
     price: 1090,
     volume: "720ml",
-    jan: "4970903512305",
+    janCode: "4970903512305",
 imageUrl:"https://imgur.com/g5EcBQY.jpeg"
   },
   {
@@ -479,7 +479,7 @@ imageUrl:"https://imgur.com/g5EcBQY.jpeg"
     taste: "やや軽め",
     price: 1650,
     volume: "750ml",
-    jan: "4970903512824",
+    janCode: "4970903512824",
 imageUrl:"https://imgur.com/sgyAoKQ.jpeg"
   },
   {
@@ -489,7 +489,7 @@ imageUrl:"https://imgur.com/sgyAoKQ.jpeg"
     taste: "辛口",
     price: 1300,
     volume: "720ml",
-    jan: "4970903512695"
+    janCode: "4970903512695"
   },
   {
     name: "北の和音バッカスＳＰ",
@@ -498,7 +498,7 @@ imageUrl:"https://imgur.com/sgyAoKQ.jpeg"
     taste: "辛口",
     price: 1500,
     volume: "750ml",
-    jan: "4970903512770",
+    janCode: "4970903512770",
 imageUrl:"https://imgur.com/LtiU34q.jpeg"
   },
   {
@@ -508,7 +508,7 @@ imageUrl:"https://imgur.com/LtiU34q.jpeg"
     taste: "普通",
     price: 1455,
     volume: "720ml",
-    jan: "4969335001624",
+    janCode: "4969335001624",
 imageUrl:"https://imgur.com/TIOGjpR.jpeg"
   },
   {
@@ -518,7 +518,7 @@ imageUrl:"https://imgur.com/TIOGjpR.jpeg"
     taste: "中口",
     price: 1455,
     volume: "720ml",
-    jan: "4969335001631",
+    janCode: "4969335001631",
 imageUrl:"https://imgur.com/xEG67VQ.jpeg"
   },
   {
@@ -528,7 +528,7 @@ imageUrl:"https://imgur.com/xEG67VQ.jpeg"
     taste: "甘口",
     price: 1606,
     volume: "375ml",
-    jan: "4990583330013",
+    janCode: "4990583330013",
 imageUrl:"https://imgur.com/vYEvij3.jpeg"
   },
   {
@@ -538,7 +538,7 @@ imageUrl:"https://imgur.com/vYEvij3.jpeg"
     taste: "やや甘口",
     price: 1210,
     volume: "720ml",
-    jan: "4990583381107",
+    janCode: "4990583381107",
 imageUrl:"https://imgur.com/4C4yAeJ.jpeg"
   },
   {
@@ -548,7 +548,7 @@ imageUrl:"https://imgur.com/4C4yAeJ.jpeg"
     taste: "辛口",
     price: 1200,
     volume: "720ml",
-    jan: "4990583300009",
+    janCode: "4990583300009",
 imageUrl:"https://imgur.com/Q06EanO.jpeg"
   },
   {
@@ -558,7 +558,7 @@ imageUrl:"https://imgur.com/Q06EanO.jpeg"
     taste: "甘口",
     price: 1200,
     volume: "720ml",
-    jan: "4990583305004",
+    janCode: "4990583305004",
 imageUrl:"https://imgur.com/XmLQRQq.jpeg"
   },
   {
@@ -568,7 +568,7 @@ imageUrl:"https://imgur.com/XmLQRQq.jpeg"
     taste: "やや甘口",
     price: 1050,
     volume: "720ml",
-    jan: "4990583723006",
+    janCode: "4990583723006",
 imageUrl:"https://imgur.com/D9Po7Vl.jpeg"
   },
   {
@@ -578,7 +578,7 @@ imageUrl:"https://imgur.com/D9Po7Vl.jpeg"
     taste: "辛口",
     price: 1200,
     volume: "720ml",
-    jan: "4990583314501",
+    janCode: "4990583314501",
 imageUrl:"https://imgur.com/y2qVk1x.jpeg"
   },
   {
@@ -588,7 +588,7 @@ imageUrl:"https://imgur.com/y2qVk1x.jpeg"
     taste: "辛口",
     price: 1200,
     volume: "720ml",
-    jan: "4990583318806",
+    janCode: "4990583318806",
 imageUrl:"https://imgur.com/pbfPYpn.jpeg"
   },
   {
@@ -598,7 +598,7 @@ imageUrl:"https://imgur.com/pbfPYpn.jpeg"
     taste: "甘口",
     price: 1200,
     volume: "720ml",
-    jan: "4990583316031",
+    janCode: "4990583316031",
 imageUrl:"https://imgur.com/UQOi0ui.jpeg"
   },
   {
@@ -608,7 +608,7 @@ imageUrl:"https://imgur.com/UQOi0ui.jpeg"
     taste: "辛口",
     price: 970,
     volume: "720ml",
-    jan: "4990583316956",
+    janCode: "4990583316956",
 imageUrl:"https://imgur.com/Y0axdTS.jpeg"
   },
   {
@@ -618,7 +618,7 @@ imageUrl:"https://imgur.com/Y0axdTS.jpeg"
     taste: "甘口",
     price: 960,
     volume: "720ml",
-    jan: "4990583316963",
+    janCode: "4990583316963",
 imageUrl:"https://imgur.com/WCfKLg9.jpeg"
   },
   {
@@ -628,7 +628,7 @@ imageUrl:"https://imgur.com/WCfKLg9.jpeg"
     taste: "辛口",
     price: 1170,
     volume: "720ml",
-    jan: "4990583316970",
+    janCode: "4990583316970",
 imageUrl:"https://imgur.com/liMKZnU.jpeg"
   },
   {
@@ -638,7 +638,7 @@ imageUrl:"https://imgur.com/liMKZnU.jpeg"
     taste: "辛口",
     price: 972,
     volume: "720ml",
-    jan: "4990583316987",
+    janCode: "4990583316987",
 imageUrl:"https://imgur.com/3o7stoY.jpeg"
   },
   {
@@ -648,7 +648,7 @@ imageUrl:"https://imgur.com/3o7stoY.jpeg"
     taste: "中口",
     price: 1305,
     volume: "720ml",
-    jan: "4990583310404",
+    janCode: "4990583310404",
 imageUrl: "https://imgur.com/qqnPS5J.jpeg"
 
   },
@@ -659,7 +659,7 @@ imageUrl: "https://imgur.com/qqnPS5J.jpeg"
     taste: "やや甘口",
     price: 1300,
     volume: "720ml",
-    jan: "4990583306803",
+    janCode: "4990583306803",
  imageUrl:"https://imgur.com/6SCpcgx.jpeg"
   },
   {
@@ -669,7 +669,7 @@ imageUrl: "https://imgur.com/qqnPS5J.jpeg"
     taste: "辛口",
     price: 1300,
     volume: "720ml",
-    jan: "4990583312804",
+    janCode: "4990583312804",
  imageUrl:"https://imgur.com/9pmdaSV.jpeg"
   },
   {
@@ -679,7 +679,7 @@ imageUrl: "https://imgur.com/qqnPS5J.jpeg"
     taste: "辛口",
     price: 1320,
     volume: "720ml",
-    jan: "4990583318004",
+    janCode: "4990583318004",
 imageUrl:"https://imgur.com/a1LldUl.jpeg"
   },
   
@@ -691,7 +691,7 @@ imageUrl:"https://imgur.com/a1LldUl.jpeg"
     taste: "ミディアムボディ",
     price: 980,
     volume: "750ml",
-    jan: "4549414516920",
+    janCode: "4549414516920",
  imageUrl:"https://imgur.com/MkHh29e.jpeg"
   },
   {
@@ -702,7 +702,7 @@ imageUrl:"https://imgur.com/a1LldUl.jpeg"
     taste: "辛口",
     price: 980,
     volume: "750ml",
-    jan: "7804320496344",
+    janCode: "7804320496344",
  imageUrl:"https://imgur.com/u2GLIQa.jpeg"
   },
   {
@@ -713,7 +713,7 @@ imageUrl:"https://imgur.com/a1LldUl.jpeg"
     taste: "ミディアムボディ",
     price: 980,
     volume: "750ml",
-    jan: "7804320521114",
+    janCode: "7804320521114",
  imageUrl:"https://imgur.com/yI11Bob.jpeg"
   },
   {
@@ -724,7 +724,7 @@ imageUrl:"https://imgur.com/a1LldUl.jpeg"
     taste: "中辛口",
     price: 980,
     volume: "750ml",
-    jan: "7804320627175",
+    janCode: "7804320627175",
 imageUrl:"https://imgur.com/nZo4F91.jpeg"
   },
   {
@@ -735,7 +735,7 @@ imageUrl:"https://imgur.com/nZo4F91.jpeg"
     taste: "辛口",
     price: 1280,
     volume: "750ml",
-    jan: "3770004191598",
+    janCode: "3770004191598",
  imageUrl:"https://imgur.com/hndBQcd.jpeg"
   },
   {
@@ -746,7 +746,7 @@ imageUrl:"https://imgur.com/nZo4F91.jpeg"
     taste: "ミディアムボディ",
     price: 980,
     volume: "750ml",
-    jan: "7804320682105",
+    janCode: "7804320682105",
  imageUrl:"https://imgur.com/zfCCsI5.jpeg"
   },
   {
@@ -757,7 +757,7 @@ imageUrl:"https://imgur.com/nZo4F91.jpeg"
     taste: "辛口",
     price: 980,
     volume: "750ml",
-    jan: "4549414516937",
+    janCode: "4549414516937",
  imageUrl:"https://imgur.com/m1Ta0Bl.jpeg"
   },
   {
@@ -768,7 +768,7 @@ imageUrl:"https://imgur.com/nZo4F91.jpeg"
     taste: "やや辛口",
     price: 980,
     volume: "750ml",
-    jan: "7804320617732",
+      janCode:"7804320617732",
 imageUrl:"https://imgur.com/LAohJsU.jpeg"
   },
   {
@@ -779,7 +779,7 @@ imageUrl:"https://imgur.com/LAohJsU.jpeg"
     taste: "中辛口",
     price: 880,
     volume: "750ml",
-    jan: "3192371011192",
+    janCode: "3192371011192",
  imageUrl:"https://imgur.com/gZMjgWX.jpeg"
   },
   {
@@ -790,7 +790,7 @@ imageUrl:"https://imgur.com/LAohJsU.jpeg"
     taste: "辛口",
     price: 498,
     volume: "750ml",
-    jan: "8410310616099",
+    janCode: "8410310616099",
  imageUrl:"https://imgur.com/NLNgJu5.jpeg"
   },
   {
@@ -801,7 +801,7 @@ imageUrl:"https://imgur.com/LAohJsU.jpeg"
     taste: "やや辛口",
     price: 598,
     volume: "750ml",
-    jan: "7809579807583",
+    janCode: "7809579807583",
 imageUrl:"https://imgur.com/lyEHxhI.jpeg"
   },
   {
@@ -812,7 +812,7 @@ imageUrl:"https://imgur.com/lyEHxhI.jpeg"
     taste: "やや甘口",
     price: 498,
     volume: "750ml",
-    jan: "4008005044346",
+    janCode: "4008005044346",
 imageUrl:"https://imgur.com/96pwG5A.jpeg"
   },
   
@@ -824,7 +824,7 @@ imageUrl:"https://imgur.com/96pwG5A.jpeg"
     taste: "辛口",
     price: 498,
     volume: "750ml",
-    jan: "7808765725212",
+    janCode: "7808765725212",
 imageUrl:"https://imgur.com/Kerzu75.jpeg"
   },
   {
@@ -835,7 +835,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "やや辛口",
     price: 498,
     volume: "750ml",
-    jan: "7808765722839",
+    janCode: "7808765722839",
  imageUrl:"https://imgur.com/9SG4duQ.jpeg"
   },
  
@@ -847,7 +847,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 598,
     volume: "375ml",
-    jan: "3180280455268",
+    janCode: "3180280455268",
  imageUrl:"https://imgur.com/F5CP25p.jpeg"
   },
   {
@@ -858,7 +858,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "辛口",
     price: 598,
     volume: "375ml",
-    jan: "3180280455343",
+    janCode: "3180280455343",
  imageUrl:"https://imgur.com/M7aiZU1.jpeg"
   },
  
@@ -870,7 +870,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "辛口",
     price: 598,
     volume: "375ml",
-    jan: "4901810987436",
+    janCode: "4901810987436",
  imageUrl:"https://imgur.com/JmMGTOY.jpeg"
   },
   {
@@ -881,7 +881,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "辛口",
     price: 598,
     volume: "375ml",
-    jan: "4901810987443",
+    janCode: "4901810987443",
  imageUrl:"https://imgur.com/PLX50H3.jpeg"
   },
   {
@@ -892,7 +892,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "やや甘口",
     price: 598,
     volume: "375ml",
-    jan: "4901810987450",
+    janCode: "4901810987450",
  imageUrl:"https://imgur.com/CUSjAIN.jpeg"
   },
  
@@ -904,7 +904,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 880,
     volume: "750ml",
-    jan: "3192371076757",
+    janCode: "3192371076757",
  imageUrl:"https://imgur.com/ocghxe1.jpeg"
   },
   {
@@ -915,7 +915,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "フルボディ",
     price: 1580,
     volume: "750ml",
-    jan: "3211209133759",
+    janCode: "3211209133759",
  imageUrl:"https://imgur.com/BnUOMAW.jpeg"
   },
   {
@@ -926,7 +926,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 1780,
     volume: "750ml",
-   jan: "3760112790332",
+   janCode: "3760112790332",
  imageUrl:"https://imgur.com/Op2iixo.jpeg"
 
   },
@@ -938,7 +938,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 1280,
     volume: "750ml",
-    jan: "3760031471725",
+    janCode: "3760031471725",
  imageUrl:"https://imgur.com/TlzCkkp.jpeg"
   },
   {
@@ -949,7 +949,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "フルボディ",
     price: 1780,
     volume: "750ml",
-    jan: "3760031474016",
+    janCode: "3760031474016",
  imageUrl:"https://imgur.com/uqYDSqu.jpeg"
   },
   {
@@ -960,7 +960,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "フルボディ",
     price: 1980,
     volume: "750ml",
-    jan: "3211209141457",
+    janCode: "3211209141457",
  imageUrl:"https://imgur.com/3LVnBCh.jpeg"
   },
   {
@@ -971,7 +971,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "フルボディ",
     price: 1980,
     volume: "750ml",
-    jan: "3211209128038",
+    janCode: "3211209128038",
  imageUrl:"https://imgur.com/gpJB5TB.jpeg"
   },
   {
@@ -982,7 +982,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "フルボディ",
     price: 880,
     volume: "750ml",
-    jan: "3500610137402",
+    janCode: "3500610137402",
  imageUrl:"https://imgur.com/G6QA4Sx.jpeg"
   },
   {
@@ -993,7 +993,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 1028,
     volume: "750ml",
-    jan: "4971980182030",
+    janCode: "4971980182030",
  imageUrl:"https://imgur.com/9KcUAeT.jpeg"
   },
   {
@@ -1004,7 +1004,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ライトボディ",
     price: 880,
     volume: "750ml",
-    jan: "8006030340040",
+    janCode: "8006030340040",
  imageUrl:"https://imgur.com/BZKnjBT.jpeg"
   },
   {
@@ -1015,7 +1015,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 1280,
     volume: "750ml",
-    jan: "8006030240043",
+    janCode: "8006030240043",
  imageUrl:"https://imgur.com/ORCwRzM.jpeg"
   },
   {
@@ -1026,7 +1026,7 @@ imageUrl:"https://imgur.com/Kerzu75.jpeg"
     taste: "ミディアムボディ",
     price: 498,
     volume: "750ml",
-    jan: "8410310616105",
+    janCode: "8410310616105",
 imageUrl:"https://imgur.com/uiqQxAz.jpeg"
   },
   {
@@ -1037,7 +1037,7 @@ imageUrl:"https://imgur.com/uiqQxAz.jpeg"
     taste: "甘口",
     price: 680,
     volume: "750ml",
-    jan: "8411155921560",
+    janCode: "8411155921560",
 imageUrl:"https://imgur.com/YLtfahL.jpeg"
   },
   {
@@ -1048,7 +1048,7 @@ imageUrl:"https://imgur.com/YLtfahL.jpeg"
     taste: "ライトボディ",
     price: 680,
     volume: "750ml",
-    jan: "8005390020814",
+    janCode: "8005390020814",
 imageUrl:"https://imgur.com/eHBZjQ4.jpeg"
   },
   {
@@ -1059,7 +1059,7 @@ imageUrl:"https://imgur.com/eHBZjQ4.jpeg"
     taste: "ミディアムボディ",
     price: 598,
     volume: "750ml",
-    jan: "7809579807552",
+    janCode: "7809579807552",
 imageUrl:"https://imgur.com/jtMn7kh.jpeg"
   },
   {
@@ -1070,7 +1070,7 @@ imageUrl:"https://imgur.com/jtMn7kh.jpeg"
     taste: "やや甘口",
     price: 498,
     volume: "750ml",
-    jan: "4008005044353",
+    janCode: "4008005044353",
 imageUrl:"https://imgur.com/ilQT6Gx.jpeg"
   },
   {
@@ -1081,7 +1081,7 @@ imageUrl:"https://imgur.com/ilQT6Gx.jpeg"
     taste: "ミディアムボディ",
     price: 498,
     volume: "750ml",
-    jan: "7808765722815",
+    janCode: "7808765722815",
 imageUrl:"https://imgur.com/5D6G6jq.jpeg"
   },
   {
@@ -1092,7 +1092,7 @@ imageUrl:"https://imgur.com/5D6G6jq.jpeg"
     taste: "ミディアムボディ",
     price: 498,
     volume: "750ml",
-    jan: "7808765722822",
+    janCode: "7808765722822",
  imageUrl:"https://imgur.com/uQ1JGU9.jpeg"
   },
   {
@@ -1103,7 +1103,7 @@ imageUrl:"https://imgur.com/5D6G6jq.jpeg"
     taste: "辛口",
     price: 498,
     volume: "750ml",
-    jan: "7808765751464",
+    janCode: "7808765751464",
 imageUrl:"https://imgur.com/pDpEvRD.jpeg"
   },
  
@@ -1116,7 +1116,7 @@ imageUrl:"https://imgur.com/pDpEvRD.jpeg"
     taste: "辛口",
     price: 1980,
     volume: "750ml",
-    jan: "3259366255747",
+    janCode: "3259366255747",
 imageUrl:"https://imgur.com/JJxIEtz.jpeg"
   },
   {
@@ -1127,7 +1127,7 @@ imageUrl:"https://imgur.com/JJxIEtz.jpeg"
     taste: "辛口",
     price: 1780,
     volume: "750ml",
-    jan: "3176780033969",
+    janCode: "3176780033969",
 imageUrl:"https://imgur.com/25daeyx.jpeg"
   },
   {
@@ -1138,7 +1138,7 @@ imageUrl:"https://imgur.com/25daeyx.jpeg"
     taste: "辛口",
     price: 2280,
     volume: "750ml",
-    jan: "3440747520220",
+    janCode: "3440747520220",
  imageUrl:"https://imgur.com/WfOzxz9.jpeg"
   },
   {
@@ -1149,7 +1149,7 @@ imageUrl:"https://imgur.com/25daeyx.jpeg"
     taste: "辛口",
     price: 7800,
     volume: "750ml",
-    jan: "3185370001233",
+    janCode: "3185370001233",
 imageUrl:"https://imgur.com/ANsPYIz.jpeg"
   },
   {
@@ -1160,7 +1160,7 @@ imageUrl:"https://imgur.com/ANsPYIz.jpeg"
     taste: "辛口",
     price: 9100,
     volume: "750ml",
-    jan: "3185370061503",
+    janCode: "3185370061503",
  imageUrl:"https://imgur.com/3OjUvls.jpeg"
 
   },
@@ -1172,7 +1172,7 @@ imageUrl:"https://imgur.com/ANsPYIz.jpeg"
     taste: "辛口",
     price: 4900,
     volume: "375ml",
-    jan: "3185370226766",
+    janCode: "3185370226766",
  imageUrl:"https://imgur.com/uzjAKgM.jpeg"
   },
   {
@@ -1183,7 +1183,7 @@ imageUrl:"https://imgur.com/ANsPYIz.jpeg"
     taste: "辛口",
     price: 5350,
     volume: "375ml",
-    jan: "3185370226810",
+    janCode: "3185370226810",
  imageUrl:"https://imgur.com/LOYGPcp.jpeg"
   },
   {
@@ -1194,7 +1194,7 @@ imageUrl:"https://imgur.com/ANsPYIz.jpeg"
     taste: "辛口",
     price: 680,
     volume: "750ml",
-    jan: "8005415058099",
+    janCode: "8005415058099",
 imageUrl:"https://imgur.com/mzsfLDr.jpeg"
   },
   {
@@ -1205,7 +1205,7 @@ imageUrl:"https://imgur.com/mzsfLDr.jpeg"
     taste: "甘口",
     price: 680,
     volume: "750ml",
-    jan: "8005415058112",
+    janCode: "8005415058112",
 imageUrl:"https://imgur.com/xCKb8Ky.jpeg"
   },
   {
@@ -1216,7 +1216,7 @@ imageUrl:"https://imgur.com/xCKb8Ky.jpeg"
     taste: "辛口",
     price: 780,
     volume: "750ml",
-    jan: "9311043759871",
+    janCode: "9311043759871",
 imageUrl:"https://imgur.com/WfNwenM.jpeg"
   },
   {
@@ -1227,7 +1227,7 @@ imageUrl:"https://imgur.com/WfNwenM.jpeg"
     taste: "辛口",
     price: 980,
     volume: "750ml",
-    jan: "8410310607967",
+    janCode: "8410310607967",
 imageUrl:"https://imgur.com/66fMrDV.jpeg"
   },
   {
@@ -1238,7 +1238,7 @@ imageUrl:"https://imgur.com/66fMrDV.jpeg"
     taste: "辛口",
     price: 1280,
     volume: "750ml",
-    jan: "8410310606328",
+    janCode: "8410310606328",
 imageUrl:"https://imgur.com/gRRx0ab.jpeg"
   },
   {
@@ -1249,7 +1249,7 @@ imageUrl:"https://imgur.com/gRRx0ab.jpeg"
     taste: "辛口",
     price: 1580,
     volume: "750ml",
-    jan: "8005415046447",
+    janCode: "8005415046447",
 imageUrl:"https://imgur.com/kWuQyMm.jpeg"
   },
   {
@@ -1260,7 +1260,7 @@ imageUrl:"https://imgur.com/kWuQyMm.jpeg"
     taste: "辛口",
     price: 1080,
     volume: "750ml",
-    jan: "7501067500012",
+    janCode: "7501067500012",
 imageUrl:"https://imgur.com/5Aj0ZFi.jpeg"
   },
   {
@@ -1271,7 +1271,7 @@ imageUrl:"https://imgur.com/5Aj0ZFi.jpeg"
     taste: "辛口",
     price: 980,
     volume: "750ml",
-    jan: "4901810987405",
+    janCode: "4901810987405",
 imageUrl:"https://imgur.com/2l6AuOG.jpeg"
   },
   {
@@ -1282,7 +1282,7 @@ imageUrl:"https://imgur.com/2l6AuOG.jpeg"
     taste: "辛口",
     price: 980,
     volume: "750ml",
-    jan: "4901810987412",
+    janCode: "4901810987412",
 imageUrl:"https://imgur.com/ydqwls5.jpeg"
   },
   {
@@ -1293,7 +1293,7 @@ imageUrl:"https://imgur.com/ydqwls5.jpeg"
     taste: "やや甘口",
     price: 980,
     volume: "750ml",
-    jan: "4901810987429",
+    janCode: "4901810987429",
 imageUrl:"https://imgur.com/nbgpJmp.jpeg"
   }  // ... 他のワインデータ ...
 // ... (既存のワインリストをここに記述) ...
